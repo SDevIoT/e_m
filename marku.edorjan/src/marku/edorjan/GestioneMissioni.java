@@ -65,7 +65,7 @@ package marku.edorjan;
  */
 
 import prog.io.*;
-
+// on the GIT
 public class GestioneMissioni {
 	static ConsoleInputManager in = new ConsoleInputManager();
 	static ConsoleOutputManager out = new ConsoleOutputManager();
